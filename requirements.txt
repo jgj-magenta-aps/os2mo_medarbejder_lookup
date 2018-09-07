@@ -1,0 +1,9 @@
+requests
+anytree
+flake8
+
+# documentation
+sphinx
+recommonmark
+htmlark
+sphinx_rtd_theme
